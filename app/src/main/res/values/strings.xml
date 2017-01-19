@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">Projector</string>
+  <string name="title_activity_movie_list">MovieListActivity</string>
+  <string name="rating">Rating: %s</string>
+</resources>
